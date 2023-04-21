@@ -1,6 +1,6 @@
 import html from '@rollup/plugin-html';
-import copy from '@rollup/plugin-copy';
-import css from '@rollup/plugin-css-only';
+import copy from 'rollup-plugin-copy';
+import css from 'rollup-plugin-css-only';
 import image from '@rollup/plugin-image';
 
 export default{
